@@ -10,7 +10,7 @@
     <div class="fixed top-0 w-full bg-black flex justify-center items-center space-x-8 h-12">
         <div class="">
             <a href="#">
-                <p class="text-white hover:text-gray-400 hover:translate-y-1 hover:delay-100">Home</p>
+                <p class="text-blue hover:text-gray-400 hover:translate-y-1 hover:delay-100">Home</p>
             </a>
         </div>
         <div class="">
